@@ -1,5 +1,7 @@
 # SQL-Project-Spotify-Data-Analysis
 
+```sql
+
 -- Personal Study - SQL Project Spotify Dataset Data Analysis
 
 -- Create Table Query
@@ -180,4 +182,6 @@ SELECT
 FROM cte
 ORDER BY energy_diff DESC;
 
--- Create a Dashboard - POWER BI/ Tableau
+```
+
+-- Next Steps: Create a Dashboard - POWER BI/ Tableau
